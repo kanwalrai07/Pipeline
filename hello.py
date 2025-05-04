@@ -1,1 +1,1 @@
-print("Hello Sir Kase Ha ap!")
+prin("Hello Sir Kase Ha ap!")
